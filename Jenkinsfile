@@ -7,7 +7,7 @@ pipeline {
 	environment {
 		PROJECT_ID = 'splendid-myth-384609'
                 CLUSTER_NAME = 'autopilot-cluster-1'
-                LOCATION = 'us-central1'
+                LOCATION = 'us-central1-c'
                 CREDENTIALS_ID = 'kubernetes'		
 	}
 	
